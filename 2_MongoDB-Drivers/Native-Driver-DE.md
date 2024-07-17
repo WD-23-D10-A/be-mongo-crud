@@ -14,7 +14,6 @@ Die beliebteste Art, mit MongoDB und Node.js zu arbeiten, ist die Verwendung die
 
 Zunächst möchte ich auf die [MongoDB-Dokumentation](https://www.mongodb.com/docs/drivers/) für new with atlas verweisen und wir werden [dies](https://mongodb.github.io/node-mongodb-native/3.5/quick-start/quick-start/) ohne atlas verwenden
 
-Übersetzt mit DeepL.com (kostenlose Version)
 Und hier gehen wir zur Registerkarte mit der Bezeichnung Treiber. Auf der linken Seite können Sie sehen, dass es eine ganze Reihe von Treibern für verschiedene Sprachen gibt.
 
 Der Treiber ermöglicht es MongoDB, mit unserer Anwendung zu interagieren. Je nachdem, in welcher Sprache Ihre Anwendung entwickelt wurde, müssen Sie einen anderen Treiber verwenden. In unserem Fall entscheiden wir uns für Node.js und sehen uns die aktuelle Dokumentation an. Dort wird Schritt für Schritt beschrieben, wie Sie mit dem nativen MongoDB-Node.js-Treiber beginnen können.
