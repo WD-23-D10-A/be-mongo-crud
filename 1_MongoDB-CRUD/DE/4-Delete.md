@@ -20,3 +20,9 @@ Lösung:
 ```
 db.products.deleteOne({_id: 2})
 ```
+
+BESTIMMTES FELD ENTFERNEN
+
+```bash
+db.products.updateOne({_id:1}, {$unset:{stock: ""}})
+```
